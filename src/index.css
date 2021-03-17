@@ -11,7 +11,7 @@ body,html {
 
 body {
     margin: 0;
-    color: #7c8891;
+    color: #2a2b2c;
     font: 16px/22px -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Helvetica Neue",sans-serif;
     background: #ebedee;
     padding: 50px;
@@ -162,13 +162,13 @@ img {
 }
 
 .footer {
-    color: #bfc4c7;
+    color: #2a2b2c;
     padding: 20px 0;
 }
 
 .label {
     display: normal;
-    color: #fbfbfb;
+    color: #2a2b2c;
     text-decoration: none;
     font-size: 13px;
     padding: 4px 8px;
@@ -198,6 +198,9 @@ img {
         background: #252d38;
     }
     .link a {
+        color: #d9d9d9;
+    }
+    .footer {
         color: #d9d9d9;
     }
 }
